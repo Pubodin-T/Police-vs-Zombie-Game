@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\pubod\Desktop\Police Vs Zombie\Police Vs Zombie\Game.cpp(127,34): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\pubod\Desktop\Police Vs Zombie\Police Vs Zombie\Game.cpp(176,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pubod\Desktop\Police Vs Zombie\Police Vs Zombie\Game.cpp(2018,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pubod\Desktop\Police Vs Zombie\Police Vs Zombie\Game.cpp(2023,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Finished generating code
+  Police Vs Zombie.vcxproj -> C:\Users\pubod\Desktop\Police Vs Zombie\x64\Release\Police Vs Zombie.exe
